@@ -3,6 +3,7 @@
  *  The Melody Box
  *  
  *  A technology-based toy to empower children’s ability to compose and play with music.
+ *  Hacking Smart Toys for AI Learning course | final project
  *
  *  May 2019 
  *  By Chunhan Chen, Tianyi Xie, Yihan Tang
